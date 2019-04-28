@@ -1,0 +1,6 @@
+{
+	"outputprefix": "C:\\Videos\\",
+	"ipaddress": "127.0.0.1",
+	"videolistcsv": "example.csv",
+	"useslash" : "False"
+}
